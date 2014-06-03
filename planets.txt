@@ -4,3 +4,5 @@ Pluto
 Earth
 Jupiter
 Saturn
+Titan
+Neptune
